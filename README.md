@@ -2,7 +2,7 @@
 
 ### Project Vision
 The website will allow potential customers to:
-  1. Follow a ["Mobile First" Design](https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00)
+  1. Follow a ["Mobile First" Design](https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00) and a Single Page Web Application Design
   2. Learn more about [Microblading Eyebrows](https://en.wikipedia.org/wiki/Microblading)
   3. Learn about the J_Brows Microblading and its mission to increase confidence one's self
   4. View J_Brows Microblading's past work through social media and eventually a gallery
@@ -18,7 +18,8 @@ The website will allow potential customers to:
 ### Project Risks
  Potential Risks involved in the project could be the technical debt regarding:
   1. Website load time may take more than 5 seconds to load due
-  2. Web Developers are reletively new to DevOps concepts
+  2. Web Developers are relatively new to DevOps concepts
+  3. The single page web application design while simple will be more challenging when implementing SEO
 
 ### Responsibilities
 Both Web Developers will work to push any code with a message of what they added or update. Updates will be communicated before done. Web Developers must estimate the hours they put in each week.
