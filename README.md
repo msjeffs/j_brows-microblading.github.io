@@ -54,7 +54,7 @@ _Here is a tentative schedule. Revisions will added with time._
 
   </tr>
   <tr>
-    <td>[Design and Approve Wireframe of Website](https://www.lucidchart.com)</td>
+    <td> Design and Approve Wireframe of Website @ https://www.lucidchart.com </td>
     <td>Get Website design approved</td>
     <td>Create HTML content</td>
     <td>CSS Implementation</td>
