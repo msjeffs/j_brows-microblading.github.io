@@ -2,7 +2,7 @@
 
 ### Project Vision
 The website will allow potential customers to:
-  1. Follow a ["Mobile First" Design](https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00) and a Single Page Web Application Design
+  1. Follow a ["Mobile First" Design](https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00) and a Multi Page Web Application Design
   2. Learn more about [Microblading Eyebrows](https://en.wikipedia.org/wiki/Microblading)
   3. Learn about the J_Brows Microblading and its mission to increase confidence one's self
   4. View J_Brows Microblading's past work through social media and eventually a gallery
