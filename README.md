@@ -66,7 +66,7 @@ _Here is a tentative schedule. Revisions will added with time._
 </table
 
 ** Example of website Design
-[Example]([Example](https://www.wix.com/website-template/view/html/2392?siteId=f462339b-55b9-44f6-9e3d-cf731be8f2f9&metaSiteId=5a0ef9eb-8698-46c6-80a0-ff9d86812d92&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Ffashion-beauty)
+[Example](https://www.wix.com/website-template/view/html/2392?siteId=f462339b-55b9-44f6-9e3d-cf731be8f2f9&metaSiteId=5a0ef9eb-8698-46c6-80a0-ff9d86812d92&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Ffashion-beauty)
 
 **This Project Chart was created with the help of
 [California Department of Technology](https://projectresources.cdt.ca.gov/agile/the-agile-project-charter/)**
