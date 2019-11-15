@@ -33,7 +33,7 @@ Both Web Developers will work to push any code with a message of what they added
   </tr>
    <tr>
     <td>less than 3 months</td>
-    <td>Less than $6,000</td>
+    <td>TBD</td>
   </tr>
 </table>
 
